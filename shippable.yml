@@ -27,4 +27,4 @@ install:
   - node -v
   - gem -v
 script:
-  - bundle exec rake --trace
+  - bundle exec rake
